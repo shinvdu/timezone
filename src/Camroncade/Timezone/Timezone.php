@@ -5,6 +5,8 @@ use DateTimeZone;
 
 class Timezone {
 	public $timezoneList =  array (
+	    '(UTC+08:00) Beijing ' => 'Asia/Beijing',
+	    '(UTC+08:00) Shanghai ' => 'Asia/Shanghai',
 	    '(UTC-11:00) Midway Island' => 'Pacific/Midway',
 	    '(UTC-11:00) Samoa' => 'Pacific/Samoa',
 	    '(UTC-10:00) Hawaii' => 'Pacific/Honolulu',
@@ -114,6 +116,8 @@ class Timezone {
 	    '(UTC+07:00) Novosibirsk' => 'Asia/Novosibirsk',
 	    '(UTC+08:00) Beijing' => 'Asia/Hong_Kong',
 	    '(UTC+08:00) Chongqing' => 'Asia/Chongqing',
+	    '(UTC+08:00) Beijing' => 'Asia/Beijing',
+	    '(UTC+08:00) Shanghai' => 'Asia/Shanghai',
 	    '(UTC+08:00) Hong Kong' => 'Asia/Hong_Kong',
 	    '(UTC+08:00) Krasnoyarsk' => 'Asia/Krasnoyarsk',
 	    '(UTC+08:00) Kuala Lumpur' => 'Asia/Kuala_Lumpur',
